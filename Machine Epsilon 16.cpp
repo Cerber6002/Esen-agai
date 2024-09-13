@@ -9,7 +9,7 @@ int main() {
         n++;
     }
 
-
+    cout << "e:" << " " << e << endl;
     cout << "Cycles:" << " " << n << endl;
 
     return 0;
