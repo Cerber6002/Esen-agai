@@ -8,7 +8,7 @@ int main()
        i=i*2;
        n++;
    }
-   
+   cout << "i:" << " " << i << endl;
    cout<<"Cycles:"<<" "<<n<<endl;
 
     return 0;
