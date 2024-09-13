@@ -8,7 +8,7 @@ int main()
        z=z/10;
        n++;
    }
-   
+   cout << "z:" << " " << z << endl;
    cout<<"Cycles:"<<" "<<n<<endl;//Здесь ответ выходит 46
 
     return 0;
